@@ -1,0 +1,7 @@
+C:\Users\Ben Hatub A. Hamdi\source\repos\GestionBiblio\bin\Debug\GestionBiblio.exe.config
+C:\Users\Ben Hatub A. Hamdi\source\repos\GestionBiblio\bin\Debug\GestionBiblio.exe
+C:\Users\Ben Hatub A. Hamdi\source\repos\GestionBiblio\bin\Debug\GestionBiblio.pdb
+C:\Users\Ben Hatub A. Hamdi\source\repos\GestionBiblio\obj\Debug\GestionBibliotheque.csproj.CoreCompileInputs.cache
+C:\Users\Ben Hatub A. Hamdi\source\repos\GestionBiblio\obj\Debug\GestionBiblio.exe
+C:\Users\Ben Hatub A. Hamdi\source\repos\GestionBiblio\obj\Debug\GestionBiblio.pdb
+C:\Users\Ben Hatub A. Hamdi\source\repos\GestionBiblio\obj\Debug\GestionBibliotheque.csproj.AssemblyReference.cache
